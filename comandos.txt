@@ -1,0 +1,2 @@
+Git commit -m, git init, git push, git branch nombre_rama, git origin master
+git mv, mkdir, cd .., touch 
